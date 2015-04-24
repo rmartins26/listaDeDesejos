@@ -4,5 +4,11 @@
     <string name="app_name">Lista de Desejos</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_inserir_desejo">Inserir Desejo</string>
+    <string name="produto">Nome do Produto</string>
+    <string name="categoria">Categoria</string>
+    <string name="precoMinimo">Preço Mínimo</string>
+    <string name="precoMaximo">Preço Máximo</string>
+    <string name="Lojas">Lojas onde achar</string>
 
 </resources>
