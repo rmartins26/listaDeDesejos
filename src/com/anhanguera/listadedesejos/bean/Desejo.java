@@ -8,6 +8,7 @@ public class Desejo {
 	private String lojas;
 	private double precoMinimo;
 	private double precoMaximo;
+	private String teste;
 
 	public int getId() {
 		return id;
